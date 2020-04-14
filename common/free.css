@@ -1,0 +1,75 @@
+/* 通用CSS */
+/* 内外边距 */
+.p-2 {
+	padding: 20rpx;
+}
+
+/* flex布局 */
+.flex {
+	display: flex;
+}
+
+.align-center {
+	align-items: center;
+}
+
+.justify-between {
+	justify-content: space-between;
+}
+
+.justify-center {
+	justify-content: center;
+}
+
+.flex-1 {
+	flex: 1;
+}
+
+/* 圆角 */
+.rounded-circle {
+	border-radius: 100%;
+}
+
+.rounded {
+	border-radius: 8rpx;
+}
+
+.mr-2 {
+	margin-right: 20rpx;
+}
+
+.font-sm {
+	font-size: 25rpx;
+}
+
+.font {
+	font-size: 30rpx;
+}
+.font-md {
+	font-size: 30rpx;
+}
+
+.text-white {
+	color: #FFFFFF;
+}
+
+/* 浅灰 */
+.text-light-muted {
+	color: #A9A5A0;
+}
+
+/* 宽度 */
+/* #ifndef APP-PLUS-NVUE */
+.w-100 {
+	width: 100%;
+}
+
+/* #endif */
+.my-1 {
+	margin-top: 10rpx;
+	margin-bottom: 10rpx;
+}
+.my-2 {
+	margin-top: 20rpx;
+	margin-bottom: 20rpx;
+}

@@ -1,0 +1,21 @@
+
+.image-default.data-v-0873b669 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.image-default image.data-v-0873b669 {
+	width: 100%;
+}
+.default.data-v-0873b669 {
+	padding-top: 50px;
+}
+.default-info_text.data-v-0873b669 {
+	text-align: center;
+	font-size: 14px;
+	color: #CCCCCC;
+}
+

@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/class/class",
+    "pages/agency/agency",
+    "pages/account/account"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "易讯",
+    "navigationBarBackgroundColor": "#FFF",
+    "backgroundColor": "#FFF"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "selectedColor": "#88D4EC",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabbar/home.png",
+        "selectedIconPath": "static/tabbar/homeed.png"
+      },
+      {
+        "pagePath": "pages/class/class",
+        "text": "班级",
+        "iconPath": "static/tabbar/class.png",
+        "selectedIconPath": "static/tabbar/classed.png"
+      },
+      {
+        "pagePath": "pages/agency/agency",
+        "text": "代办",
+        "iconPath": "static/tabbar/agency.png",
+        "selectedIconPath": "static/tabbar/agencied.png"
+      },
+      {
+        "pagePath": "pages/account/account",
+        "text": "我的",
+        "iconPath": "static/tabbar/account.png",
+        "selectedIconPath": "static/tabbar/accounted.png"
+      }
+    ]
+  },
+  "usingComponents": {
+    "divider": "/components/common/divider"
+  }
+}

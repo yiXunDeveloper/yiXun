@@ -1,0 +1,1 @@
+<view><todo-list vue-id="1" bind:__l="__l"></todo-list></view>

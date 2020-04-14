@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['handleFinish']]]]}}" class="{{['todo-list data-v-8cd29118',(checkOrNot)?'todo-finish':'']}}" bindtap="__e"><view class="todo-list_checkbox data-v-8cd29118"><view class="checkbox data-v-8cd29118"></view></view><view class="tood-list_content data-v-8cd29118">{{''+content+''}}</view></view>

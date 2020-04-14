@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "status-bar": "/components/todoList/todoListComponents/statusBar",
+    "no-data-status": "/components/todoList/todoListComponents/noDataStatus",
+    "list-data": "/components/todoList/todoListComponents/listData",
+    "add-button": "/components/todoList/todoListComponents/addButton"
+  }
+}
